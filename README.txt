@@ -1,0 +1,1 @@
+Warning: Use of shopbot Gcode generator at own risk
